@@ -1,0 +1,8 @@
+{
+  "name": "store-vue-directive",
+  "version": "1.0.5",
+  "description": "store vue directive",
+  "author": "hjqcl316602 <415877608@qq.com>",
+  "private": false,
+  "main": "index.js"
+}

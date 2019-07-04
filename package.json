@@ -1,6 +1,6 @@
 {
   "name": "store-vue-directive",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Vue.js project",
   "author": "hjqcl316602 <415877608@qq.com>",
   "private": false,
@@ -10,7 +10,7 @@
     "build": "node build/build.js",
     "out": "webpack --config .webpack.output.js"
   },
-  "main": "output/index.min.js",
+  "main": "package/index.js",
   "dependencies": {
     "vue": "^2.5.2"
   },
